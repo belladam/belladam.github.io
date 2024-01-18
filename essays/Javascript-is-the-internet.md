@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Javascript is the internet, and the internet is vast"
+title: "Javascript is the Internet, and the Internet is Vast"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
 published: true
