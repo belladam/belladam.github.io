@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/surf-photography/IMG_7791.jpg
+image: img/cover-photos/IMG_Surf_Photography_Cover.jpg
 title: "Surf Photography"
 date: 2014
 published: true
