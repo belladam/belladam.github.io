@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img width="400px" src="img/Formula-Fish.png">
+image: img/Formula-Fish.png
 title: "Formula Fish"
 date: 2023
 published: true
