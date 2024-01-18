@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img width="400px" src="../img/surf-photography/IMG_7791.jpg">
+image: img/surf-photography/IMG_7791.jpg
 title: "Surf Photography"
 date: 2014
 published: true
