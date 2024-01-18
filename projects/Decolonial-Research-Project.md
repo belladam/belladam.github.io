@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/decolonial/IMG_6646.jpg
+image: img/cover-photos/IMG_Decolonial_Cover.jpg
 title: "Decolonial Research Project"
 date: 2023
 published: true
