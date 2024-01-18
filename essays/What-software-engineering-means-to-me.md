@@ -24,3 +24,5 @@ Some skills I want to develop over the next couple of years include improved pro
 ## My Interests in Software Engineering
 
 Throughout my education in computer science, I have really only focused on front-end/web-development programming languages. I enjoy this side of programming, specifically the user interface aspect of writing code. It's really fun to write up code and see the changes you've made. I am more attracted to this than the 'back-end' server-side of programming, although this may not be fair of me to say, since I have not really been exposed to any languages that deal with the back-end. Thankfully, this semester I am taking a class focused on C, which will be great experience and exposure for me. So while I love the front-end, I may have my opinions change as I continue to learn more.
+
+* ChatGPT was used for a spelling / grammar check after writing the essay.
