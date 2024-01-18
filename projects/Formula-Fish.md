@@ -17,4 +17,4 @@ Formula Fish is a simple game played in the console of an IDE. The game is a two
 
 My group and I worked together for a large portion of the semester and finally presented our work at the SURF research fair at Kapiolani Community College. Credit to: Chiara Duyn, Ella Self, and In Mo Koo for working alongside me in this project.
  
-Source: <a href="https://github.com/ICSatKCC/a6-lawa-i-fishing-game-f23-g2_f23_a6/tree/dev-Final)</a>
+Source: <a href="https://github.com/ICSatKCC/a6-lawa-i-fishing-game-f23-g2_f23_a6/tree/dev-Final)></a>
