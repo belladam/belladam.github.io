@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Formula-Fish.png
+image: <img width="400px" src="img/Formula-Fish.png">
 title: "Formula Fish"
 date: 2023
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A simple text-based game built in Java and presented at the SURF research fair at KCC."
 ---
 
-<img widt="400px" class="img-fluid" src="../img/Formula-Fish.png">
+<img class="img-fluid" src="../img/Formula-Fish.png">
 
 Formula Fish is a simple game played in the console of an IDE. The game is a two-player turn based game where each player is given 12 months to catch as many fish as they can, while following the rules of fishing such as legal fish size, legal months, etc. At the end of the game, players will put forward their 3 fastest fish they have caught, and place them in a series of head-to-head races to determine the winner.
 
