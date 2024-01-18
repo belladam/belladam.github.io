@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cover-photos/IMG_Formula_Fish_Cover.jpg
+image: img/cover-photos/IMG_Formula_Fish_Cover.png
 title: "Formula Fish"
 date: 2023
 published: true
