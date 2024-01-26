@@ -8,7 +8,7 @@ labels:
   - Smart Questions
   - StackOverFlow
 ---
-<img width="300px" class="rounded float-start pe-4" src="../img/stackoverflow.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/stackoverflow.png">
 # Asking Questions The Right Way
 StackOverFlow is a great resource for software engineers where if you are stuck with an issue, you can reach out to a forum consisting of thousands of users who are willing to help. It has helped me many times in my journey of learning about programming. With that said, there is a smart way of asking questions which will provide great results consistently, and then there are not-so-smart questions that are downvoted and ridiculed on the forum. In this essay, I will highlight two questions that demonstrate each side of questions on StackOverFlow.
 
@@ -20,5 +20,5 @@ When asking a question on StackOverFlow, it is imporant to give the potential re
 # The Bad
 There are many poorly phrased and obviously not thought-out questions on StackOverFlow, which is to be expected of a large online forum. A prime exapmle of a poor question I found was someone asking "where are the errors am getting?". It is obvious this user did not put a ton of effort into this question if they did not bother to spellcheck their question title. Additionally, the question provides 75 lines of code, and it is riddled with syntax errors. The user also provided all errors they were recieving which was another 75 lines of console output. This is obviously a lot of work for potential responders, who have to compare each error in the console to the code 'snippet' the user provided. With over 50 errors showing up, it's not a respectful question.
 
-<img width="300px" class="rounded float-start pe-4" src="../img/badstackoverflow.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/badstackoverflow.png">\n
 [The Bad](https://stackoverflow.com/questions/30449692/where-are-the-syntax-errors-am-getting)
