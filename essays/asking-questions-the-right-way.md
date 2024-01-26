@@ -20,6 +20,6 @@ When asking a question on StackOverFlow, it is imporant to give the potential re
 # The Bad
 There are many poorly phrased and obviously not thought-out questions on StackOverFlow, which is to be expected of a large online forum. A prime exapmle of a poor question I found was someone asking "where are the errors am getting?". It is obvious this user did not put a ton of effort into this question if they did not bother to spellcheck their question title. Additionally, the question provides 75 lines of code, and it is riddled with syntax errors. The user also provided all errors they were recieving which was another 75 lines of console output. This is obviously a lot of work for potential responders, who have to compare each error in the console to the code 'snippet' the user provided. With over 50 errors showing up, it's not a respectful question.
 
-<img src="../img/badstackoverflow.png">
+<img width="500px" src="../img/badstackoverflow.png">
 
 [The Bad](https://stackoverflow.com/questions/30449692/where-are-the-syntax-errors-am-getting)
