@@ -23,5 +23,6 @@ There are many poorly phrased and obviously not thought-out questions on StackOv
 
 [The Bad](https://stackoverflow.com/questions/30449692/where-are-the-syntax-errors-am-getting)
 
-Here is a preview of the chaos:
+Here is a preview of the chaos I'm talking about:
+
 <img width="500px" src="../img/badstackoverflow.png">
