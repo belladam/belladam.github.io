@@ -8,7 +8,7 @@ labels:
   - Smart Questions
   - StackOverFlow
 ---
-<img width="1116px" height="500px" src="../img/stackoverflow.png"> 
+<img width="1116px" height="400px" src="../img/stackoverflow.png"> 
 
 # Asking Questions The Right Way
 StackOverFlow is a great resource for software engineers where if you are stuck with an issue, you can reach out to a forum consisting of thousands of users who are willing to help. It has helped me many times in my journey of learning about programming. With that said, there is a smart way of asking questions which will provide great results consistently, and then there are not-so-smart questions that are downvoted and ridiculed on the forum. In this essay, I will highlight two questions that demonstrate each side of questions on StackOverFlow.
