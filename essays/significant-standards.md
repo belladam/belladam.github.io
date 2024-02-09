@@ -23,6 +23,6 @@ I think making an effort to understand coding standards and implementing them in
 
 ## IntelliJ and ESLint
 
-<img width="300px" class="rounded float-start pe-4" src="../img/ESLint.gif"><br>
+<img width="300px" class="rounded float-start pe-4" src="../img/ESLint.gif">\
 
 Recently, I have made the switch from primarily using Visual Studio Code to using IntelliJ. Overall, I really enjoy using IntelliJ and I think this is partly due to the fact that it is very similar to VSCode. I am still getting used to some of the functionality, but the transition in general has been painless. Previously, when I would write most of my code in Java, I used CheckStyle which is also very simliar to ESLint, at least in some aspects. They are both incredibly strict but also incredibly useful. Tools such as Checkstyle and ESLint are great for ensuring quality code is written, while also catching any silly mistakes along the way. I just began using ESLint, but from what I can tell it is a very intelligent program that not only catches syntax errors, but makes suggestions for consistency and overall code quality.
