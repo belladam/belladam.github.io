@@ -11,7 +11,7 @@ labels:
   - Reflection
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="">
+<img width="300px" class="rounded float-start pe-4" src="../img/ESLint.gif">
 
 ## Why are coding standards imporant?
 
