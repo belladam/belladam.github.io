@@ -14,7 +14,11 @@ labels:
 
 ## What are UI Frameworks?
 
-UI Frameworks are pre-defined libraries of stylesheets that you can link to your HTML page and have many different convenient tools at your disposal. Some of these tools include standard spacing (e.g. p-2, p-3, p-4, etc.), color schemes for an entire navbar or footer section, and much, much more. To build a beautiful webpage from scratch requires a tremendous amount of adjustments and tweaking to get things looking right. Utilizing a UI framework takes out a lot of this headache, and makes it much easier to create something professional looking, without the hours spent changing tiny parts of your CSS stylesheet.
+UI Frameworks are pre-defined libraries of stylesheets that you can link to your HTML page and have many different convenient tools at your disposal. Some of these tools include standard spacing (e.g., p-2, p-3, p-4, etc.), color schemes for an entire navbar or footer section, and much, much more. To build a beautiful webpage from scratch requires a tremendous amount of adjustments and tweaking to get things looking right. Utilizing a UI framework takes out a lot of this headache, and makes it much easier to create something professional looking, without the hours spent changing tiny parts of your CSS stylesheet.
+
+## My Experiences
+
+Having taken online courses in web development that primarily focused on using HTML and CSS, I am very familiar with the tediousness of crafting a webpage without the assistance of a UI framework. When I began my undergraduate degree at The University of Hawaii, my classes centered around Java, C, and Javascript. This meant I did not practice any web development skills. Now, in my software engineering course, I have revisited these languages, but this time with the help of UI frameworks. I have to say the experience has been much more enjoyable, just due to the fact that what might have taken me hours can now be accomplished in a matter of minutes.
 
 ## My Thoughts
 
