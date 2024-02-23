@@ -10,7 +10,7 @@ labels:
   - Bootstrap
   - Web-development
 ---
-
+<img width="75%" class="rounded float-start pe-4" src="../img/bootstrap-bootstrap-everywhere.png">
 
 ## What are UI Frameworks?
 
