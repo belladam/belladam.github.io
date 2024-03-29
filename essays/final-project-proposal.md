@@ -16,7 +16,7 @@ Adam Bell, Dimitry Gordeev, Brandon Nakata, Gabriel White, Adriel White, and Tim
 
 ## Overview
 * The problem: For ICS students at UH Manoa, it can be difficult to find interesting projects that will improve the quality of their professional portfolios, or generally improve their skills as software engineers.
-* The solution: A web application that allows professors or fellow students to post project ideas, and allows students to find the ideal project for them.
+* The solution: A web application that allows professors or fellow students to post project ideas, and for students to find the ideal project for them to gain experience or earn credit for their classes.
 
 ## Mockup Ideas
 The application would ask the user whether they were in search of a project to complete, or if they would like to submit a project of their own. Students searching for a project would be able to fill out a form specifying different categories of projects; e.g. difficulty, programming languages used, estimated time of completion, etc. Anyone submitting a project will also fill out a form with these fields. There will be a search feature with filter options, a rating system taking into account difficulty, and a forum for people to leave comments and ask questions about a project.
