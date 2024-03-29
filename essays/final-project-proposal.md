@@ -25,4 +25,8 @@ The application would ask the user whether they were in search of a project to c
 Professors and faculty of UH Manoa would be able to use this application to post assignments in their courses and offer extra credit opportunities to their students. Students of UH Manoa would be able to use it in the reverse mannor, if an assignment has multiple options students would be able to find them here as well as browse any extra credit opportunities for their class. The application has the potential to be expanded to other departments as well.
 
 ## Beyond the Basics
-If we were successful enough in building this web application, it could be utilized by the ICS department at UH Manoa, and even potentially expanded to other classes and majors within the school. This requires a polished and well built application.
+If we were successful enough in building this web application, it could be utilized by the ICS department at UH Manoa, and even potentially expanded to other classes and majors within the school. This requires a polished and well built application. There is a lot of potential for improved functionality such as:
+* A class structure where professors can send project ideas directly to a group of students.
+* The ability to find and join a team of individual students who want to work on projects as a group.
+* The potential for professionals outside of the University to post freelance small-scale projects.
+* An accounts system that can auto-filter class-specific projects to students in 314, 111, etc.
