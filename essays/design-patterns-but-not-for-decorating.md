@@ -9,8 +9,6 @@ labels:
   - Software Engineering
 ---
 
-# Design Patterns, but not for decorating
-
 ## Best Practices
 When I think about design patterns, I imagine intricate fractals or pleasing geometric shapes. But fundamentally, design patterns are just common or helpful methods of creating something. This concept applies to almost every aspect of society, and software development is no exception. In software engineering, design patterns are established techniques for ensuring proper functionality in a project. For example, when developing a Meteor application, it's quite common to rely on components to build various pages. Although using components isn't strictly necessary for the application to work, integrating them greatly enhances code readability, simplifies future maintenance, and offers more flexibility. Components are just one aspect of design patterns in software development, some others include modular programming, React.js, server-side rendering, container patterns, and many many more. Personally, I have found that following these industry standards makes it much easier to understand how my application functions, and allows for much easier maintenance and updating.
 
