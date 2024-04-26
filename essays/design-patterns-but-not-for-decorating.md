@@ -14,7 +14,7 @@ When I think about design patterns, I imagine intricate fractals or pleasing geo
 
 <div style="text-align: center;">
   <img src="../img/wedimg.jpeg" width="300" height="300" style="display: inline-block;">
-  <div width="300" style="display: inline-block;"></div>
+  <div width="300" height="200" style="display: inline-block;"></div>
   <img src="../img/patterns.jpg" width="300" height="200" style="display: inline-block;">
 </div>
 
