@@ -10,7 +10,9 @@ labels:
   - Education
 ---
 ### I. Introduction
-It's clear that the introduction of AI chatbots like ChatGPT, Google Bard, etc. has completely transformed the educational experience. It is now possible to have an entire essay written for you in less than a minute. On top of this, AI can help with math, writing code, and almost anything else you can think of. I found AI to be very useful when breaking down small parts of a larger issue I was trying to solve.
+It's clear that the introduction of AI chatbots like ChatGPT, Google Bard, etc. has completely transformed the educational experience. It is now possible to have an entire essay written for you in less than a minute. On top of this, AI can help with math, writing code, and almost anything else you can think of. While there are obvious concerns for this powerful tool to undermind student's education, I found AI to be very useful when breaking down small parts of a larger issue I was trying to solve. I think this is an effetive and healthy way to use AI to assist in education, rather than replace it.
+
+When I think of the future of education and what degree of impact AI will have, I am reminded of the concerns that the introduction of the internet would make people less capable professionals, and "dumb them down". As we have seen, the educational system has adapted and embraced this change and I expect AI to be no different in due time.
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
