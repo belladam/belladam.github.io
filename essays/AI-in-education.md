@@ -1,3 +1,14 @@
+---
+layout: essay
+type: essay
+title: "AI in Education"
+# All dates must be YYYY-MM-DD format!
+date: 2024-05-07
+published: true
+labels:
+  - AI
+  - Education
+---
 ### I. Introduction
 It's clear that the introduction of AI chatbots like ChatGPT, Google Bard, etc. has completely transformed the educational experience. It is now possible to have an entire essay written for you in less than a minute. On top of this, AI can help with math, writing code, and almost anything else you can think of. I found AI to be very useful when breaking down small parts of a larger issue I was trying to solve.
 
