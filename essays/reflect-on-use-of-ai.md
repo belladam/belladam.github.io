@@ -51,3 +51,4 @@ It's very difficult to discuss the future of education with regards to AI. This 
 ### VIII. Conclusion:
 In conclusion, I believe AI chatbots like ChatGPT, Google Bard, etc., are extremely effective tools in furthering one's education but with great power comes great responsibility. There is ample opportunity for students to skirt by in their education and with minimal effort, get through their classes, and this can be devastating in the long run. I feel proud that I have used AI effectively to further my education without leaving me unprepared for the future.
 
+* AI was used to help with outlining and spellchecking.
