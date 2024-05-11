@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Asking Questions, the Right Way"
 date: 2024-01-24
-published: true
+published: false
 labels:
   - Smart Questions
   - StackOverFlow
