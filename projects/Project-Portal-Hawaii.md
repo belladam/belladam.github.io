@@ -3,14 +3,15 @@ layout: project
 type: project
 image: img/cover-photos/IMG_Surf_Photography_Cover.jpg
 title: "Surf Photography"
-date: 2014
-published: false
+date: 2024
+published: true
 labels:
-  - Surf
-  - Photography
-  - Hawaii
-summary: "A small collection of some of my favorite photos I have taken."
+  - Project Portal Hawaii
+  - Meteor Web Application
+  - University of Hawaii
 ---
+
+<img src="../img/team.png" alt="portal-portal-hawaii" fluid />
 
 ## Overview
 
