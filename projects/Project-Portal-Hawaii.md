@@ -11,8 +11,6 @@ labels:
   - University of Hawaii
 ---
 
-<img src="../img/pph.png" alt="portal-portal-hawaii" fluid style="max-width: 100%; height: auto;" />
-
 ## Overview
 
 Project Portal Hawaii is a web application that allows students to find interesting projects that they can work on to improve their skills and build their professional portfolio. Professors and members of the community can also propose projects for students at the Univeristy of Hawaii. The application is still being worked on and improved, so not all of the planned funcitonality has been implemented. Here's an overview of our goal:  
