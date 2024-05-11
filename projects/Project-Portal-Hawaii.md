@@ -12,8 +12,13 @@ labels:
 summary: "A small collection of some of my favorite photos I have taken."
 ---
 
-Having been born and raised here in Hawaii, when I was younger I always loved surfing and the ocean. When I was about 15, I was given a GoPro camera for my birthday. I ended up developing a passion for surf photography, and while I don't do it nearly as often as I used to, I still love it. Here is a small collection of my favorite photos thoughout the years.
+## Overview
 
-<img class="img-fluid" src="../img/surf-photography/IMG_7790.jpg">
-<img class="img-fluid" src="../img/surf-photography/IMG_7789.jpg">
-<img class="img-fluid" src="../img/surf-photography/IMG_7792.jpg">
+Project Portal Hawaii is a web application that allows students to find interesting projects that they can work on to improve their skills and build their professional portfolio. Professors and members of the community can also propose projects for students at the Univeristy of Hawaii. The application is still being worked on and improved, so not all of the planned funcitonality has been implemented. Here's an overview of our goal:  
+
+* The problem: For students at UH Manoa, it can be difficult to find interesting projects that will improve the quality of their professional portfolios, or generally improve their skills related to their field of study.
+* The solution: A web application that enables professors or fellow students to post project ideas, and allows students to find the ideal project for gaining experience or earning credit for their classes.
+
+Project Portal Hawaii is deployed at [project-portal.live]("https://project-portal.live"). A GitHub page containing information, user guides, development history, and more can be found [here]("https://project-portal-hawaii.github.io").  
+
+
