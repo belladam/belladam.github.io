@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pph-logo.jpg
+image: img/pph-logo.png
 title: "Project Portal Hawaii"
 date: 2024
 published: true
