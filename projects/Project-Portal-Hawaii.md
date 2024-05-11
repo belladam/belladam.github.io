@@ -11,7 +11,7 @@ labels:
   - University of Hawaii
 ---
 
-<img src="../img/pph.png" alt="portal-portal-hawaii" fluid />
+<img src="../img/pph.png" alt="portal-portal-hawaii" fluid max-width="100%" />
 
 ## Overview
 
