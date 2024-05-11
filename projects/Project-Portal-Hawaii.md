@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/cover-photos/IMG_Surf_Photography_Cover.jpg
-title: "Surf Photography"
+image: img/pph-logo.jpg
+title: "Project Portal Hawaii"
 date: 2024
 published: true
 labels:
