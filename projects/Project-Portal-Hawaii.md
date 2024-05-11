@@ -21,6 +21,7 @@ Project Portal Hawaii is a web application that allows students to find interest
 
 <hr />
 <img src="../img/pph.png" alt="portal-portal-hawaii" fluid style="max-width: 100%; height: auto;" />
+<hr />
 
 Project Portal Hawaii is deployed at [project-portal.live](https://project-portal.live), feel free to explore the application for yourself. A GitHub page containing information, user guides, development history, and more can be found [here](https://project-portal-hawaii.github.io).  
 
