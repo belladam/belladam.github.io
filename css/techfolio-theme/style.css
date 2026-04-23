@@ -1,0 +1,155 @@
+/* Adam Bell — Clean & Minimal Theme */
+
+/* Inter from Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Source+Code+Pro:wght@300;400;500;700&display=swap");
+
+/* ── Color & font tokens ── */
+:root {
+  /* Typography */
+  --bs-font-sans-serif: "Inter", sans-serif;
+  --bs-font-monospace: "Source Code Pro", monospace;
+
+  /* Accent: charcoal near-black */
+  --tf-accent:          #1f2023;
+  --tf-accent-soft:     #3a3d42;
+  --tf-accent-muted:    #6b7280;
+
+  /* Surfaces */
+  --tf-page-bg-color:       #ffffff;
+  --tf-footer-bg-color:     #f4f4f5;
+  --tf-projects-bg-color:   #f9f9fa;
+
+  /* Links */
+  --bs-link-color:          var(--tf-accent);
+  --bs-link-hover-color:    var(--tf-accent-soft);
+
+  /* Pills & icons */
+  --tf-pill-bg:             var(--tf-accent);
+  --tf-icon-fill:           var(--tf-accent);
+  --tf-icon-hover:          var(--tf-accent-soft);
+}
+
+/* ── Base typography ── */
+body {
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  color: #1f2023;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+/* ── Links ── */
+a {
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+a:hover {
+  color: var(--tf-accent-soft);
+}
+
+/* ── Navigation ── */
+.navbar {
+  border-bottom: 1px solid #e5e7eb;
+  background-color: #ffffff !important;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  font-size: 1.1rem;
+  letter-spacing: -0.02em;
+  color: var(--tf-accent) !important;
+}
+
+.nav-link {
+  font-weight: 500;
+  font-size: 0.9rem;
+  color: var(--tf-accent-muted) !important;
+  transition: color 0.15s ease;
+}
+
+.nav-link:hover {
+  color: var(--tf-accent) !important;
+}
+
+/* ── Hero / header section ── */
+.bg-gradient {
+  background: linear-gradient(160deg, #f9f9fa 0%, #ffffff 100%) !important;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+/* ── Cards ── */
+.card {
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  box-shadow: none;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.card:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  transform: translateY(-2px);
+}
+
+.card-footer {
+  background-color: #ffffff;
+  border-top: 1px solid #f0f0f0;
+}
+
+/* ── Pills / labels ── */
+.badge {
+  background-color: var(--tf-accent) !important;
+  font-weight: 500;
+  font-size: 0.75rem;
+  letter-spacing: 0.01em;
+  border-radius: 4px;
+  padding: 0.3em 0.65em;
+}
+
+/* ── Social icons ── */
+.tf-social {
+  display: inline-block;
+  fill: var(--tf-icon-fill);
+  height: 1.5em;
+  vertical-align: -0.1em;
+  width: 1.5em;
+  transition: fill 0.2s ease;
+}
+
+.tf-social:hover {
+  fill: var(--tf-accent-soft);
+}
+
+/* ── Footer ── */
+footer {
+  border-top: 1px solid #e5e7eb;
+  font-size: 0.85rem;
+  color: var(--tf-accent-muted);
+}
+
+/* ── Code blocks ── */
+pre, code {
+  font-family: var(--bs-font-monospace);
+  font-size: 0.875em;
+  background-color: #f4f4f5;
+  border-radius: 4px;
+}
+
+pre {
+  padding: 1rem;
+  border: 1px solid #e5e7eb;
+}
+
+/* ── Utility ── */
+.display-4, .display-6 {
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}
+
+hr {
+  border-color: #e5e7eb;
+  opacity: 1;
+}
