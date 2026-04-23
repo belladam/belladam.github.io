@@ -6,23 +6,40 @@ title: "Project Portal Hawaii"
 date: 2024
 published: true
 labels:
-  - Project Portal Hawaii
-  - Meteor Web Application
-  - University of Hawaii
+  - Meteor
+  - MongoDB
+  - JavaScript
+  - Full-Stack Web Development
 ---
 
 <hr />
+
 ## Overview
 
-Project Portal Hawaii is a web application that allows students to find interesting projects that they can work on to improve their skills and build their professional portfolio. Professors and members of the community can also propose projects for students at the Univeristy of Hawaii. The application is still being worked on and improved, so not all of the planned funcitonality has been implemented. Here's an overview of our goal:  
-
-* The problem: For students at UH Manoa, it can be difficult to find interesting projects that will improve the quality of their professional portfolios, or generally improve their skills related to their field of study.
-* The solution: A web application that enables professors or fellow students to post project ideas, and allows students to find the ideal project for gaining experience or earning credit for their classes.
+Project Portal Hawaii is a full-stack web application built for University of Hawaiʻi students to discover, join, and propose academic projects. Faculty and community sponsors can post opportunities, while students can browse available projects, view completed showcases, and build their professional portfolios.
 
 <hr />
-<img src="../img/pph.png" alt="portal-portal-hawaii" fluid style="max-width: 100%; height: auto;" />
+
+<img src="../img/pph.png" alt="project-portal-hawaii" fluid style="max-width: 100%; height: auto;" />
+
 <hr />
 
-Project Portal Hawaii is deployed at [project-portal.live](https://project-portal.live), feel free to explore the application for yourself. A GitHub page containing information, user guides, development history, and more can be found [here](https://project-portal-hawaii.github.io).  
+## My Contributions
 
+Working within a five-person team using Issue Driven Project Management, I contributed across three milestones — from building out the initial HTML structure to implementing data model functionality and refining the user experience. Development followed a structured GitHub Projects workflow, with each task tracked as an issue, developed on its own branch, and reviewed before merging.
 
+## Tech Stack
+
+Built on the [Meteor](https://www.meteor.com/) framework with MongoDB and a React front-end, the application supports full user authentication, profile management, project creation and editing, and a randomized project discovery feature.
+
+**Key features:**
+- User authentication with role-based profile management
+- Browse and filter available projects
+- Propose new projects for the community
+- Showcase completed work for future students to reference
+
+## Takeaways
+
+This project gave me hands-on experience with full-stack collaborative development — coordinating across a team, managing merge conflicts, and iterating based on real user feedback gathered through on-campus testing sessions.
+
+A full developer guide and project history are available on the [Project Portal Hawaii GitHub page](https://project-portal-hawaii.github.io).
