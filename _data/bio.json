@@ -6,7 +6,7 @@
     "email": "adamclivebell@proton.me",
     "phone": "808-258-1822",
     "website": "https://belladam.github.io",
-    "summary": "Computer Science graduate with a dual background in Psychology and Information Technology. Experienced in full-stack web development, database management, and cybersecurity. Brings strong analytical thinking, communication, and team-collaboration skills to every project.",
+    "summary": "Computer Science graduate with a dual background in Information Technology and Psychology. Experienced in full-stack web development, database management, and cybersecurity. Brings strong analytical thinking, communication, and team-collaboration skills to every project.",
     "location": {
       "address": "",
       "postalCode": "96734",
@@ -50,9 +50,9 @@
       "keywords": [
         "Python",
         "JavaScript",
+        "TypeScript",
         "Java",
-        "HTML",
-        "CSS"
+        "HTML/CSS"
       ]
     },
     {
