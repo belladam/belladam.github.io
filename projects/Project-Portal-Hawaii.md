@@ -20,7 +20,7 @@ Project Portal Hawaii is a full-stack web application built for University of Ha
 
 <hr />
 
-<img src="" alt="project-portal-hawaii" fluid style="max-width: 100%; height: auto;" />
+<img src="../img/pph.png" alt="project-portal-hawaii" fluid style="max-width: 100%; height: auto;" />
 
 <hr />
 
