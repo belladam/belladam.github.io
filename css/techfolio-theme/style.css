@@ -1,4 +1,4 @@
-/* Adam Bell — Clean & Minimal Theme */
+/* Adam Bell — Dark Mode Theme */
 
 /* Inter from Google Fonts */
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Source+Code+Pro:wght@300;400;500;700&display=swap");
@@ -9,36 +9,46 @@
   --bs-font-sans-serif: "Inter", sans-serif;
   --bs-font-monospace: "Source Code Pro", monospace;
 
-  /* Accent: charcoal near-black */
-  --tf-accent:          #1f2023;
-  --tf-accent-soft:     #3a3d42;
-  --tf-accent-muted:    #6b7280;
+  /* Accent */
+  --tf-accent:          #e2e8f0;
+  --tf-accent-soft:     #94a3b8;
+  --tf-accent-muted:    #64748b;
 
   /* Surfaces */
-  --tf-page-bg-color:       #ffffff;
-  --tf-footer-bg-color:     #f4f4f5;
-  --tf-projects-bg-color:   #f9f9fa;
+  --tf-page-bg-color:       #0f1117;
+  --tf-footer-bg-color:     #1a1d27;
+  --tf-projects-bg-color:   #151820;
 
   /* Links */
-  --bs-link-color:          var(--tf-accent);
-  --bs-link-hover-color:    var(--tf-accent-soft);
+  --bs-link-color:          #93c5fd;
+  --bs-link-hover-color:    #bfdbfe;
 
   /* Pills & icons */
-  --tf-pill-bg:             var(--tf-accent);
-  --tf-icon-fill:           var(--tf-accent);
-  --tf-icon-hover:          var(--tf-accent-soft);
+  --tf-pill-bg:             #1e293b;
+  --tf-icon-fill:           #94a3b8;
+  --tf-icon-hover:          #e2e8f0;
+
+  /* Bootstrap overrides */
+  --bs-body-bg:             #0f1117;
+  --bs-body-color:          #e2e8f0;
+  --bs-border-color:        #1e293b;
 }
 
-/* ── Base typography ── */
+/* ── Base ── */
+html, body {
+  background-color: #0f1117 !important;
+  color: #e2e8f0 !important;
+}
+
 body {
   font-weight: 400;
   letter-spacing: -0.01em;
-  color: #1f2023;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   letter-spacing: -0.02em;
+  color: #f1f5f9;
 }
 
 /* ── Links ── */
@@ -48,31 +58,31 @@ a {
 }
 
 a:hover {
-  color: var(--tf-accent-soft);
+  color: #bfdbfe;
 }
 
 /* ── Navigation ── */
 .navbar {
-  border-bottom: 1px solid #e5e7eb;
-  background-color: #ffffff !important;
+  border-bottom: 1px solid #1e293b !important;
+  background-color: #0f1117 !important;
 }
 
 .navbar-brand {
   font-weight: 700;
   font-size: 1.1rem;
   letter-spacing: -0.02em;
-  color: var(--tf-accent) !important;
+  color: #f1f5f9 !important;
 }
 
 .nav-link {
   font-weight: 500;
   font-size: 0.9rem;
-  color: var(--tf-accent-muted) !important;
+  color: #94a3b8 !important;
   transition: color 0.15s ease;
 }
 
 .nav-link:hover {
-  color: var(--tf-accent) !important;
+  color: #f1f5f9 !important;
 }
 
 /* Navbar social icons */
@@ -87,31 +97,43 @@ a:hover {
 
 /* ── Hero / header section ── */
 .bg-gradient {
-  background: linear-gradient(160deg, #f9f9fa 0%, #ffffff 100%) !important;
-  border-bottom: 1px solid #e5e7eb;
+  background: linear-gradient(160deg, #13161f 0%, #0f1117 100%) !important;
+  border-bottom: 1px solid #1e293b !important;
+}
+
+.bg-light {
+  background-color: #0f1117 !important;
 }
 
 /* ── Cards ── */
 .card {
-  border: 1px solid #e5e7eb;
+  background-color: #151820 !important;
+  border: 1px solid #1e293b !important;
   border-radius: 8px;
   box-shadow: none;
   transition: box-shadow 0.2s ease, transform 0.2s ease;
+  color: #e2e8f0 !important;
 }
 
 .card:hover {
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
   transform: translateY(-2px);
 }
 
 .card-footer {
-  background-color: #ffffff;
-  border-top: 1px solid #f0f0f0;
+  background-color: #151820 !important;
+  border-top: 1px solid #1e293b !important;
+  color: #94a3b8;
+}
+
+.card-title, .card-text {
+  color: #e2e8f0 !important;
 }
 
 /* ── Pills / labels ── */
 .badge {
-  background-color: var(--tf-accent) !important;
+  background-color: #1e293b !important;
+  color: #93c5fd !important;
   font-weight: 500;
   font-size: 0.75rem;
   letter-spacing: 0.01em;
@@ -130,40 +152,76 @@ a:hover {
 }
 
 .tf-social:hover {
-  fill: var(--tf-accent-soft);
+  fill: var(--tf-icon-hover);
+}
+
+/* ── Navbar social icons ── */
+.tf-nav-icon {
+  display: inline-block;
+  fill: #64748b;
+  height: 1.2em;
+  width: 1.2em;
+  vertical-align: -0.1em;
+  transition: fill 0.2s ease;
+}
+
+.tf-nav-icon:hover {
+  fill: #f1f5f9;
 }
 
 /* ── Footer ── */
 footer {
-  border-top: 1px solid #e5e7eb;
+  border-top: 1px solid #1e293b;
   font-size: 0.85rem;
-  color: var(--tf-accent-muted);
+  color: #64748b;
+  background-color: #0f1117 !important;
 }
 
 /* ── Code blocks ── */
 pre, code {
   font-family: var(--bs-font-monospace);
   font-size: 0.875em;
-  background-color: #f4f4f5;
+  background-color: #1a1d27 !important;
+  color: #93c5fd !important;
   border-radius: 4px;
 }
 
 pre {
   padding: 1rem;
-  border: 1px solid #e5e7eb;
+  border: 1px solid #1e293b;
+}
+
+/* ── Sections ── */
+.py-3 {
+  background-color: #0f1117 !important;
 }
 
 /* ── Utility ── */
 .display-4, .display-6 {
   font-weight: 700;
   letter-spacing: -0.03em;
+  color: #f1f5f9 !important;
 }
 
 hr {
-  border-color: #e5e7eb;
+  border-color: #1e293b;
   opacity: 1;
 }
 
-body, html {
-  background-color: #ffffff !important;
+p, li {
+  color: #cbd5e1;
+}
+
+.text-muted {
+  color: #64748b !important;
+}
+
+.btn-primary {
+  background-color: #1e40af;
+  border-color: #1e40af;
+}
+
+.btn-primary:hover {
+  background-color: #1d4ed8;
+  border-color: #1d4ed8;
 }
