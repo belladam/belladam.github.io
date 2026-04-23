@@ -153,3 +153,7 @@ hr {
   border-color: #e5e7eb;
   opacity: 1;
 }
+
+body, html {
+  background-color: #ffffff !important;
+}
