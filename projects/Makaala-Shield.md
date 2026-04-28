@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/makaala.png
+image: img/makaala-shield-logo.png
 title: "Makaʻala Shield"
 date: 2025
 published: true
