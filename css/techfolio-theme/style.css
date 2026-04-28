@@ -230,7 +230,7 @@ p, li {
 .project-card-img {
   height: 200px;
   width: 100%;
-  object-fit: contain;
+  object-fit: cover;
   background-color: #151820;
 }
 
@@ -238,8 +238,7 @@ p, li {
 .card .col-sm-6.col-md-4 {
   max-height: 200px;
   overflow: hidden;
-  display: flex;
-  align-items: center;
+  padding: 0;
 }
 
 /* Vertically center card content */
