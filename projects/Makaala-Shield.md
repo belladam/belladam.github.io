@@ -45,9 +45,10 @@ A central focus of my work was designing the relational database that ties the p
 - **Users** – Role-based accounts with scan history and permissions
 - **Scans** – Top-level scan records tied to a target repository and user
 - **Scanner Results** – Findings per tool normalized into a shared schema for cross-tool comparison
-- **Enrichment Catalogs** – Locally cached OSV, KEV, and EPSS data fetched from upstream sources
-- **Enrichment Results** – Per-vulnerability records linking scanner findings to catalog entries, storing CVSS scores, KEV status, and EPSS probability
-This schema allowed the dashboard to filter and prioritize vulnerabilities across all scanners in a unified view.
+- **Enrichment Results** – Per-vulnerability records linking scanner findings to catalog entries and API queries to combine CVSS scores, KEV status, and EPSS probability results
+This schema allowed the dashboard to filter and prioritize vulnerabilities across all scanners in a unified view
+
+<img src="../img/mshield.png" alt="makaala-shield-results" fluid style="max-width: 100%; height: auto;" />
  
 <hr />
 ## My Contributions
