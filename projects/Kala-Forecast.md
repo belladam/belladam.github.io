@@ -11,7 +11,7 @@ labels:
   - JavaScript
   - Full-Stack Web Development
   - Financial Technology
-summary: "Kālā Forecast is a full-stack financial sustainability platform built for Spire Financial — a modern alternative to spreadsheets for teams that need real forecasting infrastructure. The platform integrates fiscal sustainability models, stress testing, financial compilations, and scenario analysis into a unified, role-based dashboard."
+summary: "A full-stack financial sustainability platform for Spire Financial integrating fiscal models, stress testing, scenario analysis, and dynamic forecasting charts into a role-based dashboard."
 ---
 
 <hr />
