@@ -17,25 +17,13 @@ labels:
 
 ## Overview
 
-Kālā Forecast is a full-stack financial sustainability platform built for Spire Financial. Designed as a modern alternative to spreadsheets, it provides an integrated framework for fiscal sustainability models, stress testing, financial compilations, and modeled scenario analysis — all accessible through a role-based dashboard with dynamic forecasting charts.
+Kālā Forecast is a full-stack financial sustainability platform built for Spire Financial — a modern alternative to spreadsheets for teams that need real forecasting infrastructure. The platform integrates fiscal sustainability models, stress testing, financial compilations, and scenario analysis into a unified, role-based dashboard.
 
 <hr />
-
-<img src="../img/kala-visualization.png" alt="kala-forecast-landing" fluid style="max-width: 100%; height: auto;" />
-
-<hr />
-
-<img src="../img/financial-comp.png" alt="kala-forecast-landing" fluid style="max-width: 100%; height: auto;" />
-
-<hr />
-
-## My Contributions
-
-As one of seven developers, I contributed across multiple milestones in a structured Issue Driven Project Management workflow. The project was built iteratively — starting from mockups and progressively adding back-end functionality including database interactions and forecast calculations.
 
 ## Tech Stack
 
-Built on the **Meteor** framework with **MongoDB** and a React front-end, the platform delivers a customized experience per user role within the organization.
+Built on the **Meteor** framework with **MongoDB** and a **React** front-end, Kālā Forecast delivers a customized experience per user role within the organization.
 
 **Key features:**
 - Role-based account management tailored to individual needs within the company
@@ -44,8 +32,32 @@ Built on the **Meteor** framework with **MongoDB** and a React front-end, the pl
 - Workpaper creation, editing, and review
 - Dynamic forecasting outcome charts and graph views
 
+<hr />
+
+## Dynamic Forecasting
+
+Interactive charts provide real-time insight into projected financial outcomes — allowing teams to model scenarios directly in the browser.
+
+<img src="../img/kala-visualization.png" alt="Kālā Forecast dynamic forecasting chart" style="max-width: 70%; height: auto;" />
+
+<hr />
+
+## Financial Compilations
+
+Structured workpaper and compilation views replace static spreadsheets with editable, database-driven tables — keeping financial data auditable and understandable.
+
+<img src="../img/financial-comp.png" alt="Kālā Forecast financial compilation view" style="max-width: 70%; height: auto;" />
+
+<hr />
+
+## My Contributions
+
+As one of seven developers, I contributed across multiple milestones using an Issue Driven Project Management workflow. The project was built iteratively — from initial mockups through to full back-end functionality, including database interactions and forecast calculations.
+
+<hr />
+
 ## Takeaways
 
-This project gave me experience building financial tooling in a team environment — balancing a polished UI with meaningful back-end logic like database-driven calculations and multi-role access control. Coordinating across a seven-person team also strengthened my ability to manage scope and communicate across parallel workstreams.
+This project gave me hands-on experience building financial tooling in a collaborative team environment — balancing a polished UI with meaningful back-end logic like database-driven calculations and multi-role access control. Coordinating across seven developers strengthened my ability to manage scope and communicate across parallel workstreams.
 
 The full project GitHub page is available at [kala-forecast.github.io](https://kala-forecast.github.io/).
