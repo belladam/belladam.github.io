@@ -1,32 +1,34 @@
-<header class="navbar navbar-expand navbar-dark bg-light bg-gradient border-bottom">
+<header class="navbar navbar-expand-md navbar-dark bg-light bg-gradient border-bottom">
   <div class="container-fluid px-4">
     <a class="navbar-brand me-auto" href="{{ '/' | prepend: site.baseurl }}">{{ site.data.bio.basics.name }}</a>
-    <div class="ms-auto">
-      <ul class="navbar-nav mb-2 mb-lg-0 align-items-center gap-3">
+
+    <!-- Hamburger toggle (shows on mobile) -->
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <!-- Collapsible content -->
+    <div class="collapse navbar-collapse" id="navbarContent">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0 align-items-center gap-3">
         <li class="nav-item"><a class="nav-link px-2" href="{{ '/#projects' | prepend: site.baseurl }}">Projects</a></li>
         <li class="nav-item"><a class="nav-link px-2" href="{{ '/resume.html' | prepend: site.baseurl }}">Resume</a></li>
-
-        <!-- Divider -->
-        <li class="nav-item"><span style="color: #1e293b;">|</span></li>
-
+        <!-- Divider (hidden on mobile) -->
+        <li class="nav-item d-none d-md-block"><span style="color: #1e293b;">|</span></li>
         <!-- GitHub -->
         {% capture url %}{{ site.data.bio.basics.profiles[0].url }}{% endcapture %}
         <li class="nav-item tf-nav-social">
           {% include about/social.html url=url name="github" label="" %}
         </li>
-
         <!-- LinkedIn -->
         {% capture url %}{{ site.data.bio.basics.profiles[1].url }}{% endcapture %}
         <li class="nav-item tf-nav-social">
           {% include about/social.html url=url name="linkedin" label="" %}
         </li>
-
         <!-- Email -->
         {% capture url %}mailto:{{ site.data.bio.basics.email }}{% endcapture %}
         <li class="nav-item tf-nav-social">
           {% include about/social.html url=url name="envelope" label="" %}
         </li>
-
       </ul>
     </div>
   </div>
