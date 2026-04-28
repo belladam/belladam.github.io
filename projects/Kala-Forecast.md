@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/kala-logo.png
+image: img/kala.png
 title: "Kālā Forecast"
 date: 2024
 published: true
@@ -21,7 +21,11 @@ Kālā Forecast is a full-stack financial sustainability platform built for Spir
 
 <hr />
 
-<img src="../img/kala-landing.png" alt="kala-forecast-landing" fluid style="max-width: 100%; height: auto;" />
+<img src="../img/kala-visualization.png" alt="kala-forecast-landing" fluid style="max-width: 100%; height: auto;" />
+
+<hr />
+
+<img src="../img/financial-comp.png" alt="kala-forecast-landing" fluid style="max-width: 100%; height: auto;" />
 
 <hr />
 

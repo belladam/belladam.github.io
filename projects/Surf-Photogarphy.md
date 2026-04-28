@@ -4,7 +4,7 @@ type: project
 image: img/cover-photos/IMG_Surf_Photography_Cover.jpg
 title: "Surf Photography"
 date: 2014
-published: true
+published: false
 labels:
   - Surf
   - Photography
