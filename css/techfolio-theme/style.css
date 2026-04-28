@@ -233,6 +233,12 @@ p, li {
   object-fit: contain;
   background-color: #151820;
 }
+.project-card-img {
+  height: 200px;
+  width: 100%;
+  object-fit: contain;
+  background-color: #151820;
+}
 
 /* ── Reduce gap between image and text in project cards ── */
 .card-body {
