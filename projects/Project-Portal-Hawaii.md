@@ -10,7 +10,7 @@ labels:
   - MongoDB
   - JavaScript
   - Full-Stack Web Development
-summary: "Project Portal Hawaii is a full-stack web application built for University of Hawaiʻi students to discover, join, and propose academic projects. Faculty and community sponsors can post opportunities, while students can browse available projects, view completed showcases, and build their professional portfolios."
+summary: "A full-stack web application where University of Hawaiʻi students can discover, join, and propose academic projects with faculty and community sponsors."
 ---
 
 <hr />
