@@ -13,6 +13,7 @@ labels:
   - JavaScript
   - Cybersecurity
   - Full-Stack Web Development
+summary: "Makaʻala Shield is a modular security analysis platform that automates vulnerability detection across software repositories. The platform aggregates results from multiple open-source security scanners, normalizes them into a unified format, enriches findings against public vulnerability catalogs, and presents everything through a filterable, sortable web dashboard."
 ---
  
 <hr />
