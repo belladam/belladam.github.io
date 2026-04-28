@@ -4,7 +4,7 @@ type: project
 image: img/cover-photos/IMG_Decolonial_Cover.jpg
 title: "Decolonial Research Project"
 date: 2023
-published: true
+published: false
 labels:
   - Decolonialism
   - Sustainability
