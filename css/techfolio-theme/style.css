@@ -251,15 +251,17 @@ p, li {
   padding-left: 0.75rem !important;
 }
 
-img.project-card-img {
+.project-card-img {
   height: 200px !important;
-  width: 100% !important;
+  width: 200px !important;
   object-fit: cover !important;
   display: block !important;
+  flex-shrink: 0;
 }
 
-.card .row.g-0 > .col-sm-6.col-md-4 {
-  max-height: 200px !important;
+.card .col-sm-6.col-md-4 {
+  max-width: 200px !important;
+  min-width: 200px !important;
   overflow: hidden !important;
   padding: 0 !important;
 }
