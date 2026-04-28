@@ -269,3 +269,36 @@ p, li {
   padding-left: 1rem !important;
   width: 100% !important;
 }
+
+/* ── Mobile responsive ── */
+@media (max-width: 576px) {
+
+  /* Stack card image on top of text */
+  .card .row.g-0 {
+    flex-direction: column !important;
+  }
+
+  .card .col-sm-6.col-md-4 {
+    max-width: 100% !important;
+    min-width: 100% !important;
+    max-height: 180px !important;
+  }
+
+  .project-card-img {
+    width: 100% !important;
+    height: 180px !important;
+  }
+
+  .card .col-sm-6.col-md-8 {
+    max-width: 100% !important;
+  }
+
+  /* Tighten hero section */
+  .display-4 {
+    font-size: 2rem !important;
+  }
+
+  .card-body {
+    padding: 0.75rem !important;
+  }
+}
