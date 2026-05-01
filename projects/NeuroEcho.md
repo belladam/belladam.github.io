@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/neuroecho.png
+image: img/neuroecho_logo.png
 title: "NeuroEcho"
 date: 2025
 published: true
@@ -66,3 +66,6 @@ Delivering in MATLAB — the neuroscience industry standard — meant working wi
 The experience reinforced how much domain context matters when building research tooling — the software had to meet scientific rigor requirements, not just functional ones.
 
 The full project site is available at [neuronicu.github.io](https://neuronicu.github.io/).
+
+The project's poster presented at the University of Hawaii Information & Computer Sciences Fair (2025).
+<img src="../img/neuroecho_poster.png" alt="neuro-echo-poster" fluid style="max-width: 100%; height: auto;" />
