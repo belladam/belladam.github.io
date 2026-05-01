@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/hidoe_logo.png
 title: "Hawaii State Department of Education"
-date: 2024
+date: 2025
 published: true
 labels:
   - Python
