@@ -28,14 +28,11 @@ layout: home
           {% capture label %}{{ profile.username }}{% endcapture %}
           <p class="mb-1">{% include about/social.html url=url name=name label=label %}</p>
         {% endfor %}
-      </div>
-      <div class="col">
-        <p class="mb-1 text-end">{{ site.data.bio.basics.location.address }}</p>
-        <p class="mb-1 text-end">{{ site.data.bio.basics.location.city }}, {{ site.data.bio.basics.location.region }} {{ site.data.bio.basics.location.postalCode }} {{ site.data.bio.basics.location.countryCode }}</p>
-        <p class="mb-1 text-end">{{ site.data.bio.basics.phone }}</p>
+        <p class="mb-1">{{ site.data.bio.basics.location.city }}, {{ site.data.bio.basics.location.region }}</p>
+        <p class="mb-1">{{ site.data.bio.basics.phone }}</p>
       </div>
     </div>
-    <div class="row pt-5 align-items-start">
+    <div class="row py-5 align-items-start">
       <div class="col-lg-3">
         <h1 class="display-6 text-start m-0">Value Proposition</h1>
       </div>
@@ -46,7 +43,7 @@ layout: home
         {% endfor %}
       </div>
     </div>
-    <div class="row pt-5 align-items-center">
+    <div class="row py-5 align-items-center">
       <div class="col-lg-3">
         <h1 class="display-6 text-start m-0">Interests</h1>
       </div>
@@ -62,7 +59,7 @@ layout: home
     </div>
 
     {% if site.data.bio.skills %}
-    <div class="row pt-5 align-items-center">
+    <div class="row py-5 align-items-center">
       <div class="col-lg-3">
         <h1 class="display-6 text-start m-0">Skills</h1>
       </div>
@@ -80,7 +77,7 @@ layout: home
     {% endif %}
 
     {% if site.data.bio.projects %}
-    <div class="row pt-5 align-items-start">
+    <div class="row py-5 align-items-start">
       <div class="col-lg-3">
         <h1 class="display-6 text-start m-0">Featured Projects</h1>
       </div>
@@ -97,7 +94,7 @@ layout: home
     {% endif %}
 
     {% if site.data.bio.education %}
-    <div class="row pt-5 align-items-start">
+    <div class="row py-5 align-items-start">
       <div class="col-lg-3">
         <h1 class="display-6 text-start m-0">Education</h1>
       </div>
@@ -139,7 +136,7 @@ layout: home
     {% endif %}
 
     {% if site.data.bio.work %}
-    <div class="row pt-5 align-items-start">
+    <div class="row py-5 align-items-start">
       <div class="col-lg-3">
         <h1 class="display-6 text-start m-0">Work</h1>
       </div>
@@ -182,7 +179,7 @@ layout: home
     {% endif %}
 
     {% if site.data.bio.volunteer %}
-      <div class="row pt-5 align-items-start">
+      <div class="row py-5 align-items-start">
         <div class="col-lg-3">
           <h1 class="display-6 text-start m-0">Activities</h1>
         </div>
@@ -225,7 +222,7 @@ layout: home
     {% endif %}
 
     {% if site.data.bio.awards %}
-    <div class="row pt-5 align-items-start">
+    <div class="row py-5 align-items-start">
       <div class="col-lg-3">
         <h1 class="display-6 text-start m-0">Awards</h1>
       </div>
@@ -251,7 +248,7 @@ layout: home
     {% endif %}
 
     {% if site.data.bio.references %}
-    <div class="row pt-5 align-items-center">
+    <div class="row py-5 align-items-center">
       <div class="col-lg-3">
         <h1 class="display-6 text-start m-0">References</h1>
       </div>
