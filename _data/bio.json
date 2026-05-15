@@ -5,7 +5,15 @@
     "email": "adamclivebell@proton.me",
     "phone": "808-258-1822",
     "website": "https://belladam.github.io",
-    "summary": "Computer Science graduate with a dual background in Information Technology and Psychology. Experienced in full-stack web development, database management, and data analysis. Brings strong analytical thinking, communication, and team-collaboration skills to every project.",
+    "summary": "Information & Computer Science and Psychology graduate with a strong foundation in data pipelines, relational databases, and full-stack development. Experienced in Python scripting, server/database administration, and secure software practices. Proven ability to deliver across domains and team sizes — from financial modeling and security analytics to neuroscience research tooling — with a consistent focus on quality and collaboration.",
+    "valueProposition": {
+      "title": "Value Proposition — Data Analyst",
+      "body": [
+        "Hands-on experience across the full data lifecycle — from designing PostgreSQL schemas and building Python enrichment pipelines to delivering financial forecasting dashboards for real clients.",
+        "I bring both the technical depth to work at the system level and the analytical mindset to communicate findings clearly to non-technical stakeholders.",
+        "Seeking a Data Analyst role where I can apply my skills in SQL, Python, data modeling, and visualization to help teams make better decisions with their data."
+      ]
+    }
     "location": {
       "address": "",
       "postalCode": "96734",
@@ -49,39 +57,27 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": [
-        "Python",
-        "JavaScript",
-        "TypeScript",
-        "Java",
-        "HTML/CSS"
-      ]
+      "keywords": ["Python", "SQL", "JavaScript", "Java", "TypeScript"]
+    },
+    {
+      "name": "Data & Databases",
+      "keywords": ["Relational databases", "Database backup/maintenance", "Data integrity", "ETL scripting"]
     },
     {
       "name": "Full-Stack",
-      "keywords": [
-        "Front-end & back-end web development",
-        "REST APIs",
-        "Relational databases"
-      ]
+      "keywords": ["Front-end & back-end web development", "REST APIs", "Server administration"]
     },
     {
-      "name": "Tools & Platforms",
-      "keywords": [
-        "Server administration",
-        "Database backup/maintenance",
-        "Git/GitHub",
-        "Windows",
-        "Linux/Ubuntu"
-      ]
+      "name": "Analytics & Tools",
+      "keywords": ["Data pipeline development", "Forecasting models", "NEOED"]
     },
     {
-      "name": "Cybersecurity",
-      "keywords": [
-        "Access control",
-        "Permissions management",
-        "Secure software practices"
-      ]
+      "name": "Security",
+      "keywords": ["Access control", "Permissions management", "Role-based authorization", "Secure software practices"]
+    },
+    {
+      "name": "Soft Skills",
+      "keywords": ["Analytical thinking", "Team coordination", "Communication", "Organization", "Reliability"]
     }
   ],
   "education": [
@@ -124,13 +120,13 @@
       "position": "Human Resources Assistant (IT & Systems Support)",
       "website": "https://www.hawaiipublicschools.org/",
       "startDate": "2025-04-01",
-      "endDate": "Present",
+      "endDate": "2025-10-01",
       "summary": "IT-focused HR assistant supporting server infrastructure and HR platform administration.",
       "highlights": [
-        "Assisted with server and database backups, conversions, and ongoing maintenance to ensure data integrity.",
-        "Co-developed a Python screening script to identify and flag potentially harmful contracted individuals.",
-        "Updated server UI for improved data entry workflows.",
-        "Administered employee permissions and access within the NEOED HR platform."
+        "Managed server and relational database backups, conversions, and ongoing maintenance, ensuring consistent data integrity across updated systems.",
+        "Co-developed a Python screening script to query, filter, and flag potentially harmful contracted individuals — a data pipeline automating a previously manual process.",
+        "Optimized server UI workflows to improve data entry accuracy and reduce manual error rates.",
+        "Administered employee permissions and access controls within the NEOED HR platform, enforcing role-based data security policies."
       ]
     }
   ],
@@ -162,20 +158,20 @@
   ],
   "projects": [
     {
-      "name": "NeuroNICU",
-      "summary": "Cognitive Neuroscience Toolkit for brain imaging analysis of NICU patients. Implemented precisely timed audio cues correlated against EEG data to assess cognitive function in patients with impaired capabilities."
+      "name": "Makaʻala Shield",
+      "summary": "Modular security analysis platform (Python, FastAPI, PostgreSQL, React). Designed the full relational database schema, built the vulnerability enrichment pipeline against OSV/CVSS/KEV/EPSS enrichment APIs and catalogs, and integrated three open-source scanners into a unified, filterable dashboard — completed as a two-person team on a five-person scope."
     },
     {
       "name": "Kālā Forecast",
-      "summary": "Full-stack financial sustainability web app built for Spire Financial Firm. Features dynamic forecasting, projection analysis, and role-based account management."
+      "summary": "Full-stack financial sustainability platform for Spire Financial (Meteor, MongoDB, React). Contributed database-driven forecast calculations, stress-testing models, scenario analysis views, and dynamic charting — delivering real financial tooling to our client."
+    },
+    {
+      "name": "NeuroEcho",
+      "summary": "Cognitive neuroscience data collection toolkit for auditory ERP research (MATLAB, Python, PsychPortAudio, LSL). Led full-stack development as Technical Lead, delivering a precision-timed stimulus platform for lab settings — enabling brain-response data collection in populations that cannot participate in traditional cognitive tasks."
     },
     {
       "name": "Project Portal Hawaii",
-      "summary": "Collaborative web platform for University of Hawaiʻi students to discover and join projects listed by sponsors and faculty."
-    },
-    {
-      "name": "Formula Fish",
-      "summary": "Text-based Java game presented at the SURF research fair (2024)."
+      "summary": "Collaborative web platform for University of Hawaiʻi students to discover and join faculty/sponsor projects. Designed and maintained the relational database schema and back-end APIs supporting user and project data."
     }
   ],
   "references": [
