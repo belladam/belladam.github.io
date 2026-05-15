@@ -6,6 +6,14 @@
     "phone": "808-258-1822",
     "website": "https://belladam.github.io",
     "summary": "Information & Computer Science and Psychology graduate with a strong foundation in data pipelines, relational databases, and full-stack development. Experienced in Python scripting, server/database administration, and secure software practices. Proven ability to deliver across domains and team sizes — from financial modeling and security analytics to neuroscience research tooling — with a consistent focus on quality and collaboration.",
+    "valueProposition": {
+      "title": "Value Proposition — Data Analyst",
+      "body": [
+        "Hands-on experience across the full data lifecycle — from designing PostgreSQL schemas and building Python enrichment pipelines to delivering financial forecasting dashboards for real clients.",
+        "I bring both the technical depth to work at the system level and the analytical mindset to communicate findings clearly to non-technical stakeholders.",
+        "Seeking a Data Analyst role where I can apply my skills in SQL, Python, data modeling, and visualization to help teams make better decisions with their data."
+      ]
+    }
     "location": {
       "address": "",
       "postalCode": "96734",
