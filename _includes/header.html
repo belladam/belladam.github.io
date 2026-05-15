@@ -2,29 +2,29 @@
   <div class="container-fluid px-4">
     <a class="navbar-brand me-auto ps-3 fs-4" href="{{ '/' | prepend: site.baseurl }}">{{ site.data.bio.basics.name }}</a>
 
-    <!-- Hamburger toggle (shows on mobile) -->
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-
-    <!-- Collapsible content -->
+    
     <div class="collapse navbar-collapse" id="navbarContent">
       <ul class="navbar-nav ms-auto mb-2 mb-lg-0 align-items-center gap-3">
-        <li class="nav-item"><a class="nav-link px-2" href="{{ '/#projects' | prepend: site.baseurl }}">Projects</a></li>
-        <li class="nav-item"><a class="nav-link px-2" href="{{ '/resume.html' | prepend: site.baseurl }}">Resume</a></li>
-        <!-- Divider (hidden on mobile) -->
+        <li class="nav-item">
+          <a class="nav-link px-2 fs-5 {% if page.url contains 'projects' or page.url == '/' %}active border-bottom border-2{% endif %}" 
+             href="{{ '/#projects' | prepend: site.baseurl }}">Projects</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link px-2 fs-5 {% if page.url contains 'resume' %}active border-bottom border-2{% endif %}" 
+             href="{{ '/resume.html' | prepend: site.baseurl }}">Resume</a>
+        </li>
         <li class="nav-item d-none d-md-block"><span style="color: #1e293b;">|</span></li>
-        <!-- GitHub -->
         {% capture url %}{{ site.data.bio.basics.profiles[0].url }}{% endcapture %}
         <li class="nav-item tf-nav-social">
           {% include about/social.html url=url name="github" label="" %}
         </li>
-        <!-- LinkedIn -->
         {% capture url %}{{ site.data.bio.basics.profiles[1].url }}{% endcapture %}
         <li class="nav-item tf-nav-social">
           {% include about/social.html url=url name="linkedin" label="" %}
         </li>
-        <!-- Email -->
         {% capture url %}mailto:{{ site.data.bio.basics.email }}{% endcapture %}
         <li class="nav-item tf-nav-social">
           {% include about/social.html url=url name="envelope" label="" %}
